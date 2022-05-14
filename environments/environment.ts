@@ -4,8 +4,7 @@
 
 export const environment = {
     production: false,
-    apiUrl: 'https://shopp-e.herokuapp.com/api/v1/'
-
+    apiUrl: 'http://localhost:8888/api/v1/'
 };
 
 /*
